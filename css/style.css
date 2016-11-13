@@ -1,0 +1,11 @@
+.header .wrap {
+	max-width: none;
+	padding: 0 10px;
+}
+
+.wrap {
+	max-width: 1000px;
+	padding: 0 15px;
+	margin: 0 auto;
+
+}
